@@ -1,4 +1,4 @@
-# Todo Application
+## Todo Application
 
 A simple and responsive to-do list application built with React. This app allows users to manage tasks effectively with features like adding, editing, deleting, and marking tasks as completed. Tasks are stored in the browser's local storage for persistence.
 
